@@ -1,0 +1,23 @@
+{
+  "name": "burgers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgillam/burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgillam/burger/issues"
+  },
+  "homepage": "https://github.com/cgillam/burger#readme",
+  "dependencies": {
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
