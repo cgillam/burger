@@ -4,7 +4,7 @@ const selectAll = (cb) => {
         if (err) {
             return (cb(err, null))
         }
-        cb(null, results)
+        cb(null, res)
     })
 }
 const inserOne = (burger_name, cb) => {

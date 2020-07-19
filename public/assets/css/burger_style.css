@@ -1,0 +1,11 @@
+#burgers{
+display: flex;
+flex-direction: row;
+
+}
+
+#burgers >*{
+flex: 1;
+
+
+}
